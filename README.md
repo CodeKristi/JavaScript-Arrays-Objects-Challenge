@@ -1,2 +1,2 @@
-# JavaScript-Arrays-Objects-Challenge
+# JavaScript-Arrays-And-Objects-Challenge
 A JS Array With Objects In
